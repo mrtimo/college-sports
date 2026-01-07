@@ -1,0 +1,357 @@
+﻿institution_name,OPEID,conference,short_name
+Boston College,212800,ACC,Boston College
+Clemson University,342500,ACC,Clemson
+Duke University,292000,ACC,Duke
+Florida State University,148900,ACC,Florida State
+Georgia Institute of Technology-Main Campus,156900,ACC,Georgia Tech
+North Carolina State University at Raleigh,297200,ACC,NC State
+Saint Mary's College of California,130200,WCC,Saint Mary's
+Southern Methodist University,361300,ACC,SMU
+Stanford University,130500,ACC,Stanford
+Syracuse University,288200,ACC,Syracuse
+University of California-Berkeley,131200,ACC,Cal
+University of Louisville,199900,ACC,Louisville
+University of Miami,153600,ACC,Miami (FL)
+University of North Carolina Asheville,290700,Big South,UNC Asheville
+University of North Carolina Wilmington,298400,CAA,UNCW
+University of North Carolina at Chapel Hill,297400,ACC,North Carolina
+University of North Carolina at Greensboro,297600,SoCon,UNC Greensboro
+University of Pittsburgh-Pittsburgh Campus,337900,ACC,Pitt
+University of Virginia-Main Campus,374500,ACC,Virginia
+Virginia Polytechnic Institute and State University,375400,ACC,Virginia Tech
+Wake Forest University,297800,ACC,Wake Forest
+Binghamton University,283600,America East,Binghamton
+Bryant University,340200,America East,Bryant
+New Jersey Institute of Technology,262100,America East,NJIT
+University of Maine,205300,America East,Maine
+University of Maryland-Baltimore County,210500,America East,UMBC
+University of Massachusetts-Lowell,216100,America East,UMass Lowell
+University of New Hampshire-Main Campus,258900,America East,New Hampshire
+University of Vermont,369600,America East,Vermont
+Queens University of Charlotte,295700,ASUN,Queens (NC)
+Wichita State University,195000,American Athletic,Wichita State
+East Carolina University,292300,American Athletic,East Carolina
+Florida Atlantic University,148100,American Athletic,Florida Atlantic
+Rice University,360400,American Athletic,Rice
+Temple University,337100,American Athletic,Temple
+Tulane University of Louisiana,202900,American Athletic,Tulane
+University of Alabama at Birmingham,105200,American Athletic,UAB
+University of Memphis,350900,American Athletic,Memphis
+University of North Carolina at Charlotte,297500,American Athletic,Charlotte
+University of North Texas,359400,American Athletic,North Texas
+University of South Florida,153700,American Athletic,South Florida
+University of Tulsa,318500,American Athletic,Tulsa
+Austin Peay State University,347800,ASUN,Austin Peay
+Bellarmine University,195400,ASUN,Bellarmine
+Florida Gulf Coast University,3255300,ASUN,FGCU
+Jacksonville University,149500,ASUN,Jacksonville
+Lipscomb University,348600,ASUN,Lipscomb
+Stetson University,153100,ASUN,Stetson
+University of North Alabama,101600,ASUN,North Alabama
+Davidson College,291800,Atlantic 10,Davidson
+Duquesne University,325800,Atlantic 10,Duquesne
+Fordham University,272200,Atlantic 10,Fordham
+George Mason University,374900,Atlantic 10,George Mason
+George Washington University,144400,Atlantic 10,George Washington
+La Salle University,328700,Atlantic 10,La Salle
+Saint Joseph's University,336700,Atlantic 10,Saint Joseph's
+Saint Louis University,250600,Atlantic 10,Saint Louis
+University of Dayton,312700,Atlantic 10,Dayton
+University of Rhode Island,341400,Atlantic 10,Rhode Island
+University of Richmond,374400,Atlantic 10,Richmond
+Virginia Commonwealth University,373500,Atlantic 10,VCU
+Arizona State University Campus Immersion,108100,Big 12,Arizona State
+Baylor University,354500,Big 12,Baylor
+Brigham Young University,367000,Big 12,BYU
+Houston Christian University,357600,Southland,Houston Christian
+Iowa State University,186900,Big 12,Iowa State
+Kansas State University,192800,Big 12,Kansas State
+Northern Arizona University,108200,Big Sky,Northern Arizona
+Oklahoma State University-Main Campus,317000,Big 12,Oklahoma State
+Texas Christian University,363600,Big 12,TCU
+Texas Tech University,364400,Big 12,Texas Tech
+University of Arizona,108300,Big 12,Arizona
+University of Central Florida,395400,Big 12,UCF
+University of Cincinnati-Main Campus,312500,Big 12,Cincinnati
+University of Colorado Boulder,137000,Big 12,Colorado
+University of Houston,365200,Big 12,Houston
+University of Kansas,194800,Big 12,Kansas
+University of Utah,367500,Big 12,Utah
+West Virginia University,382700,Big 12,West Virginia
+Butler University,178800,Big East,Butler
+Creighton University,254200,Big East,Creighton
+DePaul University,167100,Big East,DePaul
+Georgetown University,144500,Big East,Georgetown
+Marquette University,386300,Big East,Marquette
+Providence College,340600,Big East,Providence
+Seton Hall University,263200,Big East,Seton Hall
+Villanova University,338800,Big East,Villanova
+Xavier University,314400,Big East,Xavier
+Eastern Washington University,377500,Big Sky,Eastern Washington
+Idaho State University,162000,Big Sky,Idaho State
+Montana State University,253200,Big Sky,Montana State
+The University of Montana,253600,Big Sky,Montana
+University of Idaho,162600,Big Sky,Idaho
+University of Northern Colorado,134900,Big Sky,Northern Colorado
+Weber State University,368000,Big Sky,Weber State
+Charleston Southern University,341900,Big South,Charleston Southern
+Gardner-Webb University,292900,Big South,Gardner-Webb
+High Point University,293300,Big South,High Point
+Longwood University,371900,Big South,Longwood
+Radford University,373200,Big South,Radford
+Winthrop University,345600,Big South,Winthrop
+Illinois State University,169200,MVC,Illinois State
+Indiana University-Bloomington,180900,Big Ten,Indiana
+Indiana University-Purdue University-Indianapolis,181300,Horizon,IU Indy
+Loyola University Maryland,207800,Patriot,Loyola Maryland
+Michigan State University,229000,Big Ten,Michigan State
+Northwestern University,173900,Big Ten,Northwestern
+Ohio State University-Main Campus,309000,Big Ten,Ohio State
+Pennsylvania State University-Main Campus,332900,Big Ten,Penn State
+Purdue University Fort Wayne,182800,Horizon,Purdue Fort Wayne
+Purdue University-Main Campus,182500,Big Ten,Purdue
+Rutgers University-New Brunswick,262900,Big Ten,Rutgers
+Southern Illinois University-Carbondale,175800,MVC,Southern Illinois
+University of California-Los Angeles,131500,Big Ten,UCLA
+University of Illinois Chicago,177600,MVC,UIC
+University of Illinois Urbana-Champaign,177500,Big Ten,Illinois
+University of Iowa,189200,Big Ten,Iowa
+University of Maryland-College Park,210300,Big Ten,Maryland
+University of Michigan-Ann Arbor,232500,Big Ten,Michigan
+University of Minnesota-Twin Cities,396900,Big Ten,Minnesota
+University of Nebraska-Lincoln,256500,Big Ten,Nebraska
+University of Northern Iowa,189000,MVC,Northern Iowa
+University of Oregon,322300,Big Ten,Oregon
+University of Southern California,132800,Big Ten,USC
+University of Washington-Seattle Campus,379800,Big Ten,Washington
+University of Wisconsin-Madison,389500,Big Ten,Wisconsin
+Western Illinois University,178000,OVC,Western Illinois
+California Polytechnic State University-San Luis Obispo,114300,Big West,Cal Poly
+California State University-Bakersfield,799300,Big West,CSU Bakersfield
+California State University-Fullerton,113700,Big West,CSU Fullerton
+California State University-Long Beach,113900,Big West,Long Beach
+California State University-Northridge,115300,Big West,CSUN
+Loyola University Chicago,171000,Atlantic 10,Loyola Chicago
+St Bonaventure University,281700,Atlantic 10,St. Bonaventure
+University at Albany,283500,America East,Albany
+University of St Thomas,234500,Summit League,St. Thomas
+Campbell University,291300,CAA,Campbell
+College of Charleston,342800,CAA,Charleston
+Drexel University,325600,CAA,Drexel
+Elon University,292700,CAA,Elon
+Hampton University,371400,CAA,Hampton
+Hofstra University,273200,CAA,Hofstra
+Monmouth University,261600,CAA,Monmouth
+North Carolina A & T State University,290500,CAA,North Carolina A&T
+Northeastern University,219900,CAA,Northeastern
+Stony Brook University,283800,CAA,Stony Brook
+Towson University,209900,CAA,Towson
+William & Mary,370500,CAA,William & Mary
+Florida International University,963500,Conference USA,FIU
+Jacksonville State University,102000,Conference USA,Jacksonville State
+Kennesaw State University,157700,Conference USA,Kennesaw State
+Louisiana Tech University,200800,Conference USA,Louisiana Tech
+Middle Tennessee State University,351000,Conference USA,Middle Tennessee
+Missouri State University-Springfield,250300,MVC,Missouri State
+New Mexico State University-Main Campus,265700,Conference USA,New Mexico State
+Sam Houston State University,360600,Conference USA,Sam Houston
+The University of Texas at El Paso,366100,Conference USA,UTEP
+University of Delaware,143100,CAA,Delaware
+Western Kentucky University,200200,Conference USA,WKU
+Delaware State University,142800,MEAC,Delaware State
+Liberty University,2053000,Conference USA,Liberty
+University of Connecticut,141700,Big East,UConn
+University of Notre Dame,184000,ACC,Notre Dame
+Cleveland State University,303200,Horizon,Cleveland State
+Northern Kentucky University,927500,Horizon,Northern Kentucky
+Oakland University,230700,Horizon,Oakland
+Robert Morris University,335900,Horizon,Robert Morris
+University of Detroit Mercy,232300,Horizon,Detroit Mercy
+University of Wisconsin-Green Bay,389900,Horizon,Green Bay
+University of Wisconsin-Milwaukee,389600,Horizon,Milwaukee
+Wright State University-Main Campus,307800,Horizon,Wright State
+Youngstown State University,314500,Horizon,Youngstown State
+Brown University,340100,Ivy League,Brown
+Columbia University in the City of New York,270700,Ivy League,Columbia
+Cornell University,271100,Ivy League,Cornell
+Dartmouth College,257300,Ivy League,Dartmouth
+Harvard University,215500,Ivy League,Harvard
+Princeton University,262700,Ivy League,Princeton
+University of Pennsylvania,337800,Ivy League,Penn
+Yale University,142600,Ivy League,Yale
+Canisius University,268100,MAAC,Canisius
+Fairfield University,138500,MAAC,Fairfield
+Iona University,273700,MAAC,Iona
+Manhattan College,275800,MAAC,Manhattan
+Marist College,276500,MAAC,Marist
+Merrimack College,212000,MAAC,Merrimack
+Mount St. Mary's University,208600,MAAC,The Mount
+Niagara University,278800,MAAC,Niagara
+Quinnipiac University,140200,MAAC,Quinnipiac
+Rider University,262800,MAAC,Rider
+Sacred Heart University,140300,MAAC,Sacred Heart
+Saint Peter's University,263800,MAAC,Saint Peter's
+Siena College,281600,MAAC,Siena
+Coppin State University,206800,MEAC,Coppin State
+Howard University,144800,MEAC,Howard
+Morgan State University,208300,MEAC,Morgan State
+Norfolk State University,376500,MEAC,Norfolk State
+North Carolina Central University,295000,MEAC,NC Central
+University of Maryland Eastern Shore,210600,MEAC,UMES
+Ball State University,178600,Mid-American,Ball State
+Bowling Green State University-Main Campus,301800,Mid-American,Bowling Green
+Central Michigan University,224300,Mid-American,Central Michigan
+Eastern Michigan University,225900,Mid-American,Eastern Michigan
+Kent State University at Kent,305100,Mid-American,Kent State
+Miami University-Oxford,307700,Mid-American,Miami (OH)
+Northern Illinois University,173700,Mid-American,Northern Illinois
+Ohio University-Main Campus,310000,Mid-American,Ohio
+University at Buffalo,283700,Mid-American,Buffalo
+University of Akron Main Campus,312300,Mid-American,Akron
+University of Massachusetts-Amherst,222100,Atlantic 10,UMass
+University of Toledo,313100,Mid-American,Toledo
+Western Michigan University,233000,Mid-American,Western Michigan
+Boise State University,161600,Mountain West,Boise State
+California State University-Fresno,114700,Mountain West,Fresno State
+Colorado State University-Fort Collins,135000,Mountain West,Colorado State
+Grand Canyon University,107400,WAC,Grand Canyon
+San Diego State University,115100,Mountain West,San Diego State
+San Jose State University,115500,Mountain West,San Jose State
+University of Hawaii at Manoa,161000,Big West,Hawaii
+University of Nevada-Las Vegas,256900,Mountain West,UNLV
+University of Nevada-Reno,256800,Mountain West,Nevada
+University of New Mexico-Main Campus,266300,Mountain West,New Mexico
+University of Wyoming,393200,Mountain West,Wyoming
+Utah State University,367700,Mountain West,Utah State
+Belmont University,347900,MVC,Belmont
+Bradley University,164100,MVC,Bradley
+Drake University,186000,MVC,Drake
+Indiana State University,180700,MVC,Indiana State
+Murray State University,197700,MVC,Murray State
+University of Evansville,179500,MVC,Evansville
+Valparaiso University,184200,MVC,Valparaiso
+Central Connecticut State University,137800,NEC,Central Connecticut
+Chicago State University,169400,NEC,Chicago State
+Fairleigh Dickinson University-Metropolitan Campus,260700,NEC,FDU
+Le Moyne College,274800,NEC,Le Moyne
+Long Island University,275100,NEC,LIU
+Saint Francis University,336600,NEC,Saint Francis (PA)
+Stonehill College,221700,NEC,Stonehill
+Wagner College,289900,NEC,Wagner
+Eastern Illinois University,167400,OVC,Eastern Illinois
+Lindenwood University,248000,OVC,Lindenwood
+Morehead State University,197600,OVC,Morehead State
+Southeast Missouri State University,250100,OVC,Southeast Missouri State
+Southern Illinois University-Edwardsville,175900,OVC,SIUE
+Oregon State University,321000,Pac-12,Oregon State
+Washington State University,380000,Pac-12,Washington State
+American University,143400,Patriot,American
+Boston University,213000,Patriot,Boston University
+Bucknell University,323800,Patriot,Bucknell
+Colgate University,270100,Patriot,Colgate
+College of the Holy Cross,214100,Patriot,Holy Cross
+Lafayette College,328400,Patriot,Lafayette
+Lehigh University,328900,Patriot,Lehigh
+St. John's University-New York,282300,Big East,St. John's
+University of California-Davis,131300,Big West,UC Davis
+University of California-Irvine,131400,Big West,UC Irvine
+University of California-Riverside,131600,Big West,UC Riverside
+Alabama State University,100500,SWAC,Alabama State
+Auburn University,100900,SEC,Auburn
+Citadel Military College of South Carolina,342300,SoCon,The Citadel
+Eastern Kentucky University,196300,ASUN,Eastern Kentucky
+Louisiana State University and Agricultural & Mechanical College,201000,SEC,LSU
+Mississippi State University,242300,SEC,Mississippi State
+South Carolina State University,344600,MEAC,SC State
+Tennessee Technological University,352300,OVC,Tennessee Tech
+Texas A & M University-College Station,363200,SEC,Texas A&M
+The University of Alabama,105100,SEC,Alabama
+The University of Tennessee-Knoxville,353000,SEC,Tennessee
+The University of Tennessee-Martin,353100,OVC,UT Martin
+The University of Texas at Arlington,365600,WAC,UT Arlington
+The University of Texas at Austin,365800,SEC,Texas
+University of Arkansas,110800,SEC,Arkansas
+University of Arkansas at Little Rock,110100,OVC,Little Rock
+University of Arkansas at Pine Bluff,108600,SWAC,UAPB
+University of Central Arkansas,109200,ASUN,Central Arkansas
+University of Florida,153500,SEC,Florida
+University of Georgia,159800,SEC,Georgia
+University of Kentucky,198900,SEC,Kentucky
+University of Mississippi,244000,SEC,Ole Miss
+University of Missouri-Columbia,251600,SEC,Missouri
+University of North Florida,984100,ASUN,North Florida
+University of Oklahoma-Norman Campus,318400,SEC,Oklahoma
+University of South Carolina-Columbia,344800,SEC,South Carolina
+University of South Carolina-Upstate,695100,Big South,USC Upstate
+Vanderbilt University,353500,SEC,Vanderbilt
+East Tennessee State University,348700,SoCon,ETSU
+Furman University,343400,SoCon,Furman
+Mercer University,158000,SoCon,Mercer
+Samford University,103600,SoCon,Samford
+Tennessee State University,352200,OVC,Tennessee State
+The University of Tennessee-Chattanooga,352900,SoCon,Chattanooga
+Virginia Military Institute,375300,SoCon,VMI
+Western Carolina University,298100,SoCon,Western Carolina
+Wofford College,345700,SoCon,Wofford
+Lamar University,358100,Southland,Lamar
+McNeese State University,201700,Southland,McNeese
+Nicholls State University,200500,Southland,Nicholls
+Texas A & M University-Commerce,356500,Southland,East Texas A&M
+Texas A & M University-Corpus Christi,1116100,Southland,Texas A&M-Corpus Christi
+University of New Orleans,201500,Southland,New Orleans
+University of the Incarnate Word,357800,Southland,UIW
+North Dakota State University-Main Campus,299700,Summit League,North Dakota State
+Oral Roberts University,398500,Summit League,Oral Roberts
+South Dakota State University,347100,Summit League,South Dakota State
+University of Denver,137100,Summit League,Denver
+University of Missouri-Kansas City,251800,Summit League,Kansas City
+University of Nebraska at Omaha,255400,Summit League,Omaha
+University of North Dakota,300500,Summit League,North Dakota
+University of South Dakota,347400,Summit League,South Dakota
+Appalachian State University,290600,Sun Belt,App State
+Arkansas State University,109000,Sun Belt,Arkansas State
+Coastal Carolina University,345100,Sun Belt,Coastal Carolina
+Georgia Southern University,157200,Sun Belt,Georgia Southern
+Georgia State University,157400,Sun Belt,Georgia State
+James Madison University,372100,Sun Belt,James Madison
+Marshall University,381500,Sun Belt,Marshall
+Northwestern State University of Louisiana,202100,Southland,Northwestern State
+Old Dominion University,372800,Sun Belt,Old Dominion
+Southeastern Louisiana University,202400,Southland,Southeastern Louisiana
+Texas State University,361500,Sun Belt,Texas State
+Troy University,104700,Sun Belt,Troy
+University of Louisiana at Lafayette,203100,Sun Belt,Louisiana
+University of Louisiana at Monroe,202000,Sun Belt,UL Monroe
+University of South Alabama,105700,Sun Belt,South Alabama
+University of Southern Mississippi,244100,Sun Belt,Southern Miss
+Alabama A & M University,100200,SWAC,Alabama A&M
+Alcorn State University,239600,SWAC,Alcorn State
+Bethune-Cookman University,146700,SWAC,Bethune-Cookman
+California State University-Sacramento,115000,Big Sky,Sacramento State
+Florida Agricultural and Mechanical University,148000,SWAC,Florida A&M
+Grambling State University,200600,SWAC,Grambling State
+Jackson State University,241000,SWAC,Jackson State
+Mississippi Valley State University,242400,SWAC,Mississippi Valley State
+Prairie View A & M University,363000,SWAC,Prairie View A&M
+Southern University and A & M College,202500,SWAC,Southern
+Southern Utah University,367800,WAC,Southern Utah
+Stephen F Austin State University,362400,Southland,Stephen F. Austin
+Texas Southern University,364200,SWAC,Texas Southern
+The University of Texas Rio Grande Valley,359900,Southland,UTRGV
+The University of Texas at San Antonio,1011500,American Athletic,UTSA
+University of California-Santa Barbara,132000,Big West,UC Santa Barbara
+Abilene Christian University,353700,WAC,Abilene Christian
+California Baptist University,112500,WAC,California Baptist
+Tarleton State University,363100,WAC,Tarleton State
+Utah Tech University,367100,WAC,Utah Tech
+Utah Valley University,402700,WAC,Utah Valley
+Gonzaga University,377800,WCC,Gonzaga
+Loyola Marymount University,1164900,WCC,LMU
+Pepperdine University,1014900,WCC,Pepperdine
+Portland State University,321600,Big Sky,Portland State
+Santa Clara University,132600,WCC,Santa Clara
+Seattle University,379000,WAC,Seattle U
+University of Portland,322400,WCC,Portland
+University of San Diego,1039500,WCC,San Diego
+University of San Francisco,132500,WCC,San Francisco
+University of the Pacific,132900,WCC,Pacific
